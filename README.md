@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%2336393f&borderColor=%23e4e2e2&qColor=%23faa627&aColor=%23ffffff&textColor=%23aaaaaa&codeColor=%2336393f)](https://github.com/ABSphreak/readme-jokes)
+
 ### Github stats
 
 [![Woyken's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woyken&theme=slateorange&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
