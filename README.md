@@ -6,6 +6,8 @@
 
 [![Woyken's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=Woyken&theme=slateorange)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woyken&theme=slateorange&layout=compact&exclude_repo=Woyken.github.io,YAAVR,VU-MIF-Functional-Programming,VU-MIF-Gazebo,VU-MIF-Software-Development-for-Mobile-Devices-and-Autonomous-Systems-3-Android-NN-Object-detect,VU-MIF-Software-Development-for-Mobile-Devices-and-Autonomous-Systems-2-basic-NN-with-Keras,VU-MIF-Software-Development-for-Mobile-Devices-and-Autonomous-Systems-1-Android-application)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
