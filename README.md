@@ -2,7 +2,7 @@
 
 ### Github stats
 
-[![Woyken's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woyken&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+[![Woyken's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woyken&theme=slateorange&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Woyken's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=Woyken&theme=slateorange)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
